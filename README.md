@@ -1,6 +1,6 @@
-# Learn About Python Devlopment 
+# Learn About Python Development 
 
-## Data Types in Python
+## [Data Types in Python](Python_Data_Type.ipynb)
 - Strings
 - Numbers
 - Booleans and None
@@ -9,5 +9,4 @@
 - Tuples & Ranges
 - Dictionaries
 
-## Control Flow
-
+## [Control Flow](Control_Flow.ipynb)
