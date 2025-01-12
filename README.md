@@ -10,3 +10,7 @@
 - Dictionaries
 
 ## [Control Flow](Control_Flow.ipynb)
+- Conditionals and Comparisons
+- Logic Operations
+- The while loop
+- The for Loop
