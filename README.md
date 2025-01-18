@@ -14,3 +14,9 @@
 - Logic Operations
 - The while loop
 - The for Loop
+
+## [Encapsulating Code](Encapsulating_Code.ipynb)
+- Writing Function
+
+## [Object-Oriented Programming](Encapsulating_Code.ipynb)
+- Classes
