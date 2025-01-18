@@ -18,5 +18,6 @@
 ## [Encapsulating Code](Encapsulating_Code.ipynb)
 - Writing Function
 
-## [Object-Oriented Programming](Encapsulating_Code.ipynb)
+## [Object-Oriented Programming](Object_Oriented_Programming_Basics.ipynb)
 - Classes
+- Composition
